@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DBClient",
+            "request": "launch",
+            "mainClass": "DBClient"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoggerTest",
+            "request": "launch",
+            "mainClass": "LoggerTest",
+            "projectName": "SingletonJava_f1ffb843"
+        }
+    ]
+}
