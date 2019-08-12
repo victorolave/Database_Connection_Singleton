@@ -1,4 +1,4 @@
-# Databese Connection
+# Database Connection
 ## Singleton Pattern || Java
 
 This is an example of the implementation of a design pattern Singleton on the programing language Java.
